@@ -57,6 +57,8 @@
     - Aula prática para reforço de todo conteúdo visto
 ### 20/05/2026 - [2a avaliação](https://github.com/Welquer/si-26-7a/tree/2a-avaliacao)
     - 2a avaliação
+### 23/05/2026 - Autoestudo - [autoestudo 01](https://github.com/Welquer/si-26-7a/tree/autoestudo-1)
+    - conteúdo a ser definido
 ### 27/05/2026 - [12a aula](https://github.com/Welquer/si-26-7a/tree/12a-aula) - +0,5
     - Algoritmos de hash
     - Criptografia
@@ -88,6 +90,7 @@ ____
 - A cada aula deve ser feito pelo menos um commit até às 22h
 - Nota 1 vale 4 pontos + 0,5 por aula que vale ponto (12 aulas) = 10 pontos
 - Notas 2 e 3 valem 10 pontos
+- Autoestudo 01 (opcional) vale até 2 pontos extras a serem somados na menor nota
 
 ____
 
