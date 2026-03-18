@@ -54,7 +54,7 @@
 | Estudante | Pasta | index.html | Fetch externo | Data do Commit | Atraso | Nota |
 |-----------|:---:|:---:|:---:|----------------|--------|:----:|
 | **alehandro-leandro** | ❌ | ✅ | ✅ | 04/03 (19:29) | 0 dias | 0,5 |
-| **alerrandro-bp** | ❌ | ✅ | ✅ | 11/03 (20:56) | 7 dias | 0,0 |
+| **alerrandro-bp** | ❌ | ✅ | ✅ | 11/03 (20:56) | 7 dias | 0,4 |
 | **ana-luiza-batista** | ✅ | ✅ | ✅ | 04/03 (21:32) | 0 dias | 0,5 |
 | **andre-becker** | ✅ | ✅ | ✅ | 04/03 (21:40) | 0 dias | 0,5 |
 | **anna-rocha** | ✅ | ✅ | ✅ | 06/03 (19:00) | 2 dias | 0,3 |
