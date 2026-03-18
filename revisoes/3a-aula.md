@@ -124,7 +124,7 @@
 | **leticia-oliveira** | ✅ | ✅ | ✅ | ✅ | ❌ | 11/03 (19:04) | 0 dias | — |
 | **lola-tramontin** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (20:11) | 0 dias | — |
 | **lucca-muller** | ✅ | ✅ | ✅ | ✅ | ✅ | 11/03 (19:57) | 0 dias | 0,5 |
-| **luis-filipe-bmuller** | ✅ | ✅ | ✅ | ✅ | ✅ | 13/03 (14:56) | 2 dias | 0,3 |
+| **luis-filipe-bmuller** | ✅ | ✅ | ✅ | ✅ | ✅ | 13/03 (14:56) | 2 dias | 0,5 |
 | **luis-henrique** | ✅ | ✅ | ❌ | ✅ | ✅ | 11/03 (20:22) | 0 dias | — |
 | **luiz-honorato** | ✅ | ✅ | ❌ | ✅ | ✅ | 11/03 (20:08) | 0 dias | — |
 | **marcelo-ballmann** | ❌ | ❌ | ❌ | ❌ | ❌ | sem entrega | — | 0,0 |

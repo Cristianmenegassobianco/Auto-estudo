@@ -84,7 +84,7 @@
 | **leticia-oliveira** | ✅ | ✅ | ✅ | 04/03 (20:29) | 0 dias | 0,5 |
 | **lola-tramontin** | ✅ | ✅ | ✅ | 04/03 (21:35) | 0 dias | 0,5 |
 | **lucca-muller** | ✅ | ✅ | ✅ | 11/03 (19:23) | 7 dias | 0,0 |
-| **luis-filipe-bmuller** | ✅ | ✅ | ✅ | 13/03 (14:56) | 9 dias | 0,0 |
+| **luis-filipe-bmuller** | ✅ | ✅ | ✅ | 13/03 (14:56) | 9 dias | 0,5 |
 | **luis-henrique** | ✅ | ✅ | ✅ | 04/03 (21:41) | 0 dias | 0,5 |
 | **luiz-honorato** | ✅ | ✅ | ✅ | 04/03 (21:09) | 0 dias | 0,5 |
 | **marcelo-ballmann** | ✅ | ✅ | ✅ | 04/03 (21:41) | 0 dias | 0,5 |
