@@ -107,7 +107,7 @@
 | **cristian-m-bianco** | ✅ | ❌ | ❌ | ✅ | ❌ | 11/03 (21:49) | 0 dias | — |
 | **daniel-arceno** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (21:39) | 0 dias | — |
 | **daniel-ascari** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (21:18) | 0 dias | — |
-| **daniel-bagio-monteguti** | ✅ | ✅ | ❌ | ✅ | ✅ | 11/03 (21:44) | 0 dias | — |
+| **daniel-bagio-monteguti** | ✅ | ✅ | ❌ | ✅ | ✅ | 11/03 (21:44) | 0 dias | 0,3 |
 | **davi-beckhauser** | ✅ | ❌ | ✅ | ✅ | ✅ | 17/03 (17:19) | 6 dias | 0,0 |
 | **diana-alves** | ✅ | ✅ | ❌ | ✅ | ✅ | 11/03 (20:12) | 0 dias | — |
 | **dyego-schulz** | ❌ | ❌ | ❌ | ❌ | ❌ | sem entrega | — | 0,0 |
