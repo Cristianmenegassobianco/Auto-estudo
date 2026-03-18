@@ -64,7 +64,7 @@
 | **beatriz-mendonca** | ❌ | ❌ | ❌ | sem entrega | — | 0,0 |
 | **carlos-souza** | ✅ | ✅ | ✅ | 04/03 (21:37) | 0 dias | 0,5 |
 | **caue-castanhel** | ✅ | ✅ | ✅ | 04/03 (21:40) | 0 dias | 0,5 |
-| **cristian-m-bianco** | ✅ | ❌ | ✅ | 04/03 (21:39 BRT) | 0 dias | — |
+| **cristian-m-bianco** | ✅ | ❌ | ✅ | 04/03 (21:39 BRT) | 0 dias | 0,4 |
 | **daniel-arceno** | ✅ | ✅ | ✅ | 04/03 (21:36) | 0 dias | 0,5 |
 | **daniel-ascari** | ✅ | ✅ | ✅ | 04/03 (21:39) | 0 dias | 0,5 |
 | **daniel-bagio-monteguti** | ✅ | ✅ | ✅ | 04/03 (21:51) | 0 dias | 0,5 |
