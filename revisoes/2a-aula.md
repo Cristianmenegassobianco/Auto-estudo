@@ -61,7 +61,7 @@
 | **antonio-marcos-goulart** | ✅ | ✅ | ❌ | 07/03 (16:46) | 3 dias | — |
 | **ariel-oliveira** | ❌ | ❌ | ❌ | sem entrega | — | 0,0 |
 | **arthur-fuchter** | ✅ | ✅ | ✅ | 04/03 (21:38) | 0 dias | 0,5 |
-| **beatriz-mendonca** | ❌ | ❌ | ❌ | sem entrega | — | 0,0 |
+| **beatriz-mendonca** | ❌ | ❌ | ❌ | sem entrega | — | 0,2 |
 | **carlos-souza** | ✅ | ✅ | ✅ | 04/03 (21:37) | 0 dias | 0,5 |
 | **caue-castanhel** | ✅ | ✅ | ✅ | 04/03 (21:40) | 0 dias | 0,5 |
 | **cristian-m-bianco** | ✅ | ❌ | ✅ | 04/03 (21:39 BRT) | 0 dias | 0,4 |
