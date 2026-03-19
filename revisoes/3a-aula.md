@@ -98,7 +98,7 @@
 | **ana-luiza-batista** | ✅ | ✅ | ✅ | ✅ | ✅ | 11/03 (20:18) | 0 dias | 0,5 |
 | **andre-becker** | ✅ | ✅ | ✅ | ✅ | ✅ | 11/03 (20:29) | 0 dias | 0,5 |
 | **anna-rocha** | ✅ | ✅ | ✅ | ✅ | ❌ | 11/03 (19:59) | 0 dias | — |
-| **antonio-marcos-goulart** | ✅ | ❌ | ✅ | ✅ | ✅ | 14/03 (09:12) | 3 dias | — |
+| **antonio-marcos-goulart** | ✅ | ❌ | ✅ | ✅ | ✅ | 14/03 (09:12) | 3 dias | 0,1 |
 | **ariel-oliveira** | ❌ | ❌ | ❌ | ❌ | ❌ | sem entrega | — | 0,0 |
 | **arthur-fuchter** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (20:06) | 0 dias | — |
 | **beatriz-mendonca** | ❌ | ❌ | ❌ | ❌ | ❌ | sem entrega | — | 0,0 |
@@ -109,12 +109,12 @@
 | **daniel-ascari** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (21:18) | 0 dias | — |
 | **daniel-bagio-monteguti** | ✅ | ✅ | ❌ | ✅ | ✅ | 11/03 (21:44) | 0 dias | 0,3 |
 | **davi-beckhauser** | ✅ | ❌ | ✅ | ✅ | ✅ | 17/03 (17:19) | 6 dias | 0,0 |
-| **diana-alves** | ✅ | ✅ | ❌ | ✅ | ✅ | 11/03 (20:12) | 0 dias | — |
+| **diana-alves** | ✅ | ✅ | ❌ | ✅ | ✅ | 11/03 (20:12) | 0 dias | 0,4 |
 | **dyego-schulz** | ❌ | ❌ | ❌ | ❌ | ❌ | sem entrega | — | 0,0 |
 | **eduardo-jacob** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (21:42) | 0 dias | — |
 | **elisa-alberton** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (21:20) | 0 dias | — |
 | **eric-loli** | ❌ | ❌ | ❌ | ❌ | ❌ | sem entrega | — | 0,0 |
-| **gabriel-carlin** | ✅ | ✅ | ❌ | ✅ | ✅ | 11/03 (20:18) | 0 dias | — |
+| **gabriel-carlin** | ✅ | ✅ | ❌ | ✅ | ✅ | 11/03 (20:18) | 0 dias | 0,3 |
 | **gabriel-coelho** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (20:01) | 0 dias | — |
 | **gustavo-bianco** | ✅ | ✅ | ✅ | ✅ | ✅ | 11/03 (20:09) | 0 dias | 0,5 |
 | **jose-felisbino** | ✅ | ✅ | ✅ | ✅ | ✅ | 11/03 (19:52) | 0 dias | 0,5 |
@@ -122,20 +122,20 @@
 | **kaua-oenning** | ✅ | ✅ | ✅ | ✅ | ✅ | 11/03 (20:09) | 0 dias | 0,5 |
 | **lara-scremin** | ✅ | ✅ | ✅ | ✅ | ✅ | 11/03 (21:38) | 0 dias | 0,5 |
 | **leticia-oliveira** | ✅ | ✅ | ✅ | ✅ | ❌ | 11/03 (19:04) | 0 dias | — |
-| **lola-tramontin** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (20:11) | 0 dias | — |
+| **lola-tramontin** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (20:11) | 0 dias | 0,3 |
 | **lucca-muller** | ✅ | ✅ | ✅ | ✅ | ✅ | 11/03 (19:57) | 0 dias | 0,5 |
 | **luis-filipe-bmuller** | ✅ | ✅ | ✅ | ✅ | ✅ | 13/03 (14:56) | 2 dias | 0,5 |
 | **luis-henrique** | ✅ | ✅ | ❌ | ✅ | ✅ | 11/03 (20:22) | 0 dias | — |
-| **luiz-honorato** | ✅ | ✅ | ❌ | ✅ | ✅ | 11/03 (20:08) | 0 dias | — |
+| **luiz-honorato** | ✅ | ✅ | ❌ | ✅ | ✅ | 11/03 (20:08) | 0 dias | 0,3 |
 | **marcelo-ballmann** | ❌ | ❌ | ❌ | ❌ | ❌ | sem entrega | — | 0,0 |
 | **marcos-bianco** | ❌ | ❌ | ❌ | ❌ | ❌ | sem entrega | — | 0,0 |
-| **matheus-lessa** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (21:41) | 0 dias | — |
+| **matheus-lessa** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (21:41) | 0 dias | 0,3 |
 | **miguel-boeng** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (20:18) | 0 dias | — |
 | **otavio-eyng** | ❌ | ❌ | ❌ | ❌ | ❌ | sem entrega | — | 0,0 |
-| **renan-volpato** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (21:06) | 0 dias | — |
+| **renan-volpato** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (21:06) | 0 dias | 0,3 |
 | **rian-machado** | ❌ | ❌ | ❌ | ❌ | ✅ | 11/03 (21:29) | 0 dias | — |
 | **vinicius-mattei** | ✅ | ✅ | ✅ | ✅ | ✅ | 11/03 (21:36) | 0 dias | 0,5 |
-| **vinicius-mendes-tomaz** | ✅ | ❌ | ✅ | ✅ | ✅ | 11/03 (21:36) | 0 dias | — |
+| **vinicius-mendes-tomaz** | ✅ | ❌ | ✅ | ✅ | ✅ | 11/03 (21:36) | 0 dias | 0,5 |
 | **vitor-souza-vieira** | ✅ | ✅ | ✅ | ✅ | ✅ | 11/03 (19:21) | 0 dias | 0,5 |
 | **welquer-esser** | ✅ | ✅ | ❌ | ✅ | ✅ | 17/03 (20:00) | 6 dias | 0,0 |
 | **weslei-silva** | ✅ | ✅ | ❌ | ✅ | ❌ | 17/03 (19:04) | 6 dias | 0,0 |
