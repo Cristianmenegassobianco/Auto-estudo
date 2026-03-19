@@ -97,7 +97,7 @@
 | **alerrandro-bp** | ❌ | ❌ | ❌ | ❌ | ❌ | 11/03 (20:57) | 0 dias | — |
 | **ana-luiza-batista** | ✅ | ✅ | ✅ | ✅ | ✅ | 11/03 (20:18) | 0 dias | 0,5 |
 | **andre-becker** | ✅ | ✅ | ✅ | ✅ | ✅ | 11/03 (20:29) | 0 dias | 0,5 |
-| **anna-rocha** | ✅ | ✅ | ✅ | ✅ | ❌ | 11/03 (19:59) | 0 dias | — |
+| **anna-rocha** | ✅ | ✅ | ✅ | ✅ | ❌ | 11/03 (19:59) | 0 dias | 0,5 |
 | **antonio-marcos-goulart** | ✅ | ❌ | ✅ | ✅ | ✅ | 14/03 (09:12) | 3 dias | 0,1 |
 | **ariel-oliveira** | ❌ | ❌ | ❌ | ❌ | ❌ | sem entrega | — | 0,0 |
 | **arthur-fuchter** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (20:06) | 0 dias | — |
