@@ -121,7 +121,7 @@
 | **jose-herdt** | ✅ | ✅ | ✅ | ✅ | ✅ | 11/03 (21:40) | 0 dias | 0,5 |
 | **kaua-oenning** | ✅ | ✅ | ✅ | ✅ | ✅ | 11/03 (20:09) | 0 dias | 0,5 |
 | **lara-scremin** | ✅ | ✅ | ✅ | ✅ | ✅ | 11/03 (21:38) | 0 dias | 0,5 |
-| **leticia-oliveira** | ✅ | ✅ | ✅ | ✅ | ❌ | 11/03 (19:04) | 0 dias | — |
+| **leticia-oliveira** | ✅ | ✅ | ✅ | ✅ | ❌ | 11/03 (19:04) | 0 dias | 0,4 |
 | **lola-tramontin** | ✅ | ✅ | ❌ | ✅ | ❌ | 11/03 (20:11) | 0 dias | 0,3 |
 | **lucca-muller** | ✅ | ✅ | ✅ | ✅ | ✅ | 11/03 (19:57) | 0 dias | 0,5 |
 | **luis-filipe-bmuller** | ✅ | ✅ | ✅ | ✅ | ✅ | 13/03 (14:56) | 2 dias | 0,5 |
