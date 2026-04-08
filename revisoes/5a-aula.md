@@ -116,7 +116,7 @@ Entregaram a pasta, mas o backend tem apenas uma entidade principal sem segunda 
 | matheus-lessa | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — | — | 0,0 |
 | miguel-boeng | ✅ | ✅ | ✅ node.js | ✅ index.html | ✅ usuarios/carros | ✅ | 29/03 22:36 | Não | 0,5 |
 | otavio-eyng | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — | — | 0,0 |
-| renan-volpato | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — | — | 0,0 |
+| renan-volpato | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | — | — | 0,5 |
 | rian-machado | ✅ | ✅ | ✅ index.js | ✅ script.js | ✅ CRUD | ✅ filmes/usuário | 28/03 16:55 | Não | 0,5 |
 | vinicius-mattei | ✅ | ✅ | ✅ index.js | ✅ script.js | ✅ CRUD | ❌ | 25/03 21:12 | Não | — |
 | vinicius-mendes-tomaz | ✅ | ✅ | ✅ index.js | ✅ script.js | ✅ CRUD | ✅ | 25/03 21:01 | Não | 0,5 |

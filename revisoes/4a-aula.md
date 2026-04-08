@@ -107,7 +107,7 @@
 | matheus-lessa | ✅ | ✅ | ✅ (`api/index.js`) | ✅ (URL relativa, backend serve HTML) | ✅ | ✅ | 18/03/2026 21:41 | — | 0,5 |
 | miguel-boeng | ✅ | ✅ | ✅ (`node.js`) | ✅ | ✅ | ✅ | 22/03/2026 23:35 | +1 dia | 0,4 |
 | otavio-eyng | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — | — | 0,0 |
-| renan-volpato | ✅ | ✅ | ✅ (PUT com erro em runtime) | ✅ | ⚠️ (PUT causa ReferenceError) | ✅ | 18/03/2026 20:29 | — | — |
+| renan-volpato | ✅ | ✅ | ✅ (PUT com erro em runtime) | ✅ | ⚠️ (PUT causa ReferenceError) | ✅ | 18/03/2026 20:29 | — | 0,5 |
 | rian-machado | ✅ | ✅ | ✅ (`script.js` carregado) | ✅ | ✅ | ✅ | 18/03/2026 19:48 | — | 0,5 |
 | vinicius-mattei | ✅ | ✅ | ✅ (`script.js` carregado) | ✅ | ✅ | ✅ | 18/03/2026 21:18 | — | 0,5 |
 | vinicius-mendes-tomaz | ✅ | ✅ | ✅ (`script.js` carregado) | ✅ | ✅ | ✅ | 18/03/2026 20:58 | — | 0,5 |
