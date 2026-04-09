@@ -81,7 +81,7 @@ Entregaram a pasta, mas o backend tem apenas uma entidade principal sem segunda 
 | dyego-schulz | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — | — | 0,0 |
 | alehandro-leandro | ✅ | ✅ | ✅ server.js | ✅ usuarios.js | ✅ | ✅ | 27/03 10:36 | Não | 0,5 |
 | alerrandro-bp | ✅ | ✅ | ✅ index.js | ✅ index.html | ✅ | ✅ | 25/03 21:06 | Não | 0,5 |
-| ana-luiza-batista | ✅ | ✅ | ✅ index.js | ✅ index.html | ❌ | ❌ | 25/03 21:23 | Não | — |
+| ana-luiza-batista | ✅ | ✅ | ✅ index.js | ✅ index.html | ❌ | ❌ | 25/03 21:23 | Não | 0,4 |
 | andre-becker | ✅ | ✅ | ✅ index.js | ✅ index.html | ✅ pessoas/livros | ✅ | 25/03 20:38 | Não | 0,5 |
 | anna-rocha | ✅ | ✅ | ✅ index.js | ✅ index.html | ✅ carros/usuarios | ✅ | 25/03 20:30 | Não | 0,5 |
 | antonio-marcos-goulart | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — | — | 0,0 |
@@ -94,7 +94,7 @@ Entregaram a pasta, mas o backend tem apenas uma entidade principal sem segunda 
 | daniel-arceno | ✅ | ✅ | ✅ index.js | ✅ index.html | ✅ | ✅ | 26/03 22:18 | Não | 0,5 |
 | daniel-ascari | ✅ | ✅ | ✅ index.js | ✅ script.js | ✅ | ✅ | 25/03 21:32 | Não | 0,5 |
 | davi-beckhauser | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — | — | 0,0 |
-| diana-alves | ✅ | ✅ | ✅ index.js | ✅ script.js | ❌ | ❌ | 25/03 21:20 | Não | — |
+| diana-alves | ✅ | ✅ | ✅ index.js | ✅ script.js | ❌ | ❌ | 25/03 21:20 | Não | 0,4 |
 | eduardo-jacob | ✅ | ✅ | ✅ index.js | ✅ index.html | ✅ usuarios/carros | ✅ | 25/03 21:23 | Não | 0,5 |
 | elisa-alberton | ✅ | ✅ | ✅ index.js | ✅ index.html | ✅ | ✅ | 25/03 21:12 | Não | 0,5 |
 | eric-loli | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — | — | 0,0 |
