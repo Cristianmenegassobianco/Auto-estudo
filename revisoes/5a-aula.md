@@ -77,7 +77,7 @@ Entregaram a pasta, mas o backend tem apenas uma entidade principal sem segunda 
 
 | Aluno | Pasta ✅/❌ | index.html ✅/❌ | Backend ✅/❌ | Fetch interno ✅/❌ | Usuários ✅/❌ | Relacionamento ✅/❌ | Data do commit (BRT) | Atraso | Nota |
 |---|---|---|---|---|---|---|---|---|---|
-| daniel-bagio-monteguti | ✅ | ✅ | ✅ server.js | ✅ script.js | ❌ | ❌ | 25/03 21:28 | Não | — |
+| daniel-bagio-monteguti | ✅ | ✅ | ✅ server.js | ✅ script.js | ❌ | ❌ | 25/03 21:28 | Não | 0,4 |
 | dyego-schulz | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — | — | 0,0 |
 | alehandro-leandro | ✅ | ✅ | ✅ server.js | ✅ usuarios.js | ✅ | ✅ | 27/03 10:36 | Não | 0,5 |
 | alerrandro-bp | ✅ | ✅ | ✅ index.js | ✅ index.html | ✅ | ✅ | 25/03 21:06 | Não | 0,5 |
