@@ -84,7 +84,7 @@
 | cristian-m-bianco | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — | — | 0,0 |
 | daniel-arceno | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 19/03/2026 09:17 | — | 0,5 |
 | daniel-ascari | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ (`script.js` carregado pelo HTML) | 18/03/2026 21:02 | — | 0,5 |
-| davi-beckhauser | ✅ | ❌ (`indexApi.html`) | ✅ (`server.js`) | ✅ | ✅ | ✅ | 22/03/2026 19:28 | — | — |
+| davi-beckhauser | ✅ | ❌ (`indexApi.html`) | ✅ (`server.js`) | ✅ | ✅ | ✅ | 22/03/2026 19:28 | — | 0,4 |
 | diana-alves | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 18/03/2026 21:26 | — | 0,5 |
 | eduardo-jacob | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 18/03/2026 21:43 | — | 0,5 |
 | elisa-alberton | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 22/03/2026 21:00 | — | 0,5 |

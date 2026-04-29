@@ -68,7 +68,7 @@
 | **daniel-arceno** | ✅ | ✅ | ✅ | 04/03 (21:36) | 0 dias | 0,5 |
 | **daniel-ascari** | ✅ | ✅ | ✅ | 04/03 (21:39) | 0 dias | 0,5 |
 | **daniel-bagio-monteguti** | ✅ | ✅ | ✅ | 04/03 (21:51) | 0 dias | 0,5 |
-| **davi-beckhauser** | ✅ | ❌ | ✅ | 04/03 (21:24) | 0 dias | — |
+| **davi-beckhauser** | ✅ | ❌ | ✅ | 04/03 (21:24) | 0 dias | 0,4 |
 | **diana-alves** | ✅ | ✅ | ✅ | 04/03 (21:24) | 0 dias | 0,5 |
 | **dyego-schulz** | ✅ | ✅ | ✅ | 11/03 (21:13) | 7 dias | 0,0 |
 | **eduardo-jacob** | ✅ | ✅ | ✅ | 04/03 (19:33) | 0 dias | 0,5 |
