@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Playlist Musical</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <h1>🎵 Playlist Musical</h1>
+        <p>Sistema para gerenciar artistas, álbuns, músicas e playlists</p>
+        <button id="btnLogout" class="hidden">Sair</button>
+    </header>
+
+    <main class="container">
+        <section class="card" id="loginSection">
+            <h2>Login</h2>
+            <input type="text" id="loginUsuario" placeholder="Usuário (admin)" />
+            <input type="password" id="loginSenha" placeholder="Senha (admin)" />
+            <button id="btnEntrar">Entrar</button>
+        </section>
+
+        <div id="appContent" class="hidden">
+            <section class="card">
+                <h2>Cadastrar Artista</h2>
+                <input type="text" id="nomeArtista" placeholder="Nome do artista" />
+                <input type="text" id="generoArtista" placeholder="Gênero musical" />
+                <button id="btnSalvarArtista">Salvar Artista</button>
+                <ul id="listaArtistas"></ul>
+            </section>
+
+            <section class="card">
+                <h2>Cadastrar Álbum</h2>
+                <input type="text" id="tituloAlbum" placeholder="Título do álbum" />
+                <input type="number" id="anoAlbum" placeholder="Ano" />
+                <input type="number" id="idArtistaAlbum" placeholder="ID do artista" />
+                <button id="btnSalvarAlbum">Salvar Álbum</button>
+                <ul id="listaAlbuns"></ul>
+            </section>
+
+            <section class="card">
+                <h2>Cadastrar Música</h2>
+                <input type="text" id="tituloMusica" placeholder="Título da música" />
+                <input type="text" id="duracaoMusica" placeholder="Duração (ex: 3:45)" />
+                <input type="number" id="idArtistaMusica" placeholder="ID do artista" />
+                <input type="number" id="idAlbumMusica" placeholder="ID do álbum" />
+                <button id="btnSalvarMusica">Salvar Música</button>
+                <ul id="listaMusicas"></ul>
+            </section>
+
+            <section class="card">
+                <h2>Cadastrar Playlist</h2>
+                <input type="text" id="nomePlaylist" placeholder="Nome da playlist" />
+                <input type="text" id="descricaoPlaylist" placeholder="Descrição" />
+                <p class="subtitulo-playlist">Selecione as músicas:</p>
+                <div id="checkboxMusicas" class="checkbox-group"></div>
+                <button id="btnSalvarPlaylist">Salvar Playlist</button>
+                <ul id="listaPlaylists"></ul>
+            </section>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

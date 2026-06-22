@@ -1,0 +1,194 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f4f6f8;
+    color: #222;
+}
+
+header {
+    background: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 24px;
+}
+
+header h1 {
+    margin-bottom: 6px;
+}
+
+header p {
+    font-size: 14px;
+    opacity: 0.8;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 30px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 20px;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 14px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+    transition: 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-3px);
+}
+
+.card h2 {
+    margin-bottom: 15px;
+    color: #111827;
+}
+
+input[type="text"],
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    outline: none;
+    font-size: 14px;
+}
+
+input:focus {
+    border-color: #2563eb;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    background: #2563eb;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-size: 14px;
+    transition: 0.2s;
+}
+
+button:hover {
+    background: #1d4ed8;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    padding: 12px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.subtitulo-playlist {
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #111827;
+}
+
+.checkbox-group {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 15px;
+}
+
+.checkbox-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    padding: 10px;
+    border-radius: 8px;
+    transition: 0.2s;
+}
+
+.checkbox-item:hover {
+    background: #eef2ff;
+}
+
+.checkbox-item input[type="checkbox"] {
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+
+.checkbox-item label {
+    cursor: pointer;
+    font-size: 14px;
+    flex: 1;
+}
+
+@media (max-width: 600px) {
+    .container {
+        width: 95%;
+    }
+}
+
+.hidden {
+    display: none !important;
+}
+
+#btnLogout {
+    width: auto;
+    padding: 8px 20px;
+    margin: 10px 0 0 0;
+    background: #dc2626;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#btnLogout:hover {
+    background: #b91c1c;
+}
+
+.item-acoes {
+    display: flex;
+    gap: 8px;
+    margin-top: 10px;
+}
+
+.btn-acao {
+    width: auto;
+    padding: 6px 12px;
+    font-size: 12px;
+    margin-bottom: 0;
+    border-radius: 4px;
+    font-weight: normal;
+}
+
+.btn-editar {
+    background: #e2e8f0;
+    color: #1e293b;
+}
+
+.btn-editar:hover {
+    background: #cbd5e1;
+}
+
+.btn-excluir {
+    background: #fee2e2;
+    color: #991b1b;
+}
+
+.btn-excluir:hover {
+    background: #fca5a5;
+}
