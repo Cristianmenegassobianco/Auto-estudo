@@ -46,3 +46,28 @@ Containerizar a aplicação desenvolvida na 2a avaliação e publicá-la em um a
 - [Docker Compose — getting started](https://docs.docker.com/compose/gettingstarted/)
 - [Deploy no Render (Node.js)](https://render.com/docs/deploy-node-express-app)
 - [Railway — Deploy from GitHub](https://docs.railway.app/getting-started)
+
+---
+
+## 🚀 Minha Entrega
+
+### 🔗 Link em Produção
+A aplicação está acessível publicamente no Railway através do link:
+**https://auto-estudo-production.up.railway.app**
+
+### 🐳 Como rodar localmente via Docker
+Para rodar este projeto na sua máquina local utilizando o Docker, siga os passos abaixo:
+
+1. Renomeie o arquivo `.env.example` para `.env` (ou crie um novo arquivo `.env` na mesma pasta baseando-se no de exemplo).
+2. Abra o terminal na pasta onde o `docker-compose.yml` está localizado.
+3. Execute o comando para subir os containers:
+   ```bash
+   docker-compose up --build
+   ```
+4. A aplicação estará rodando nas portas configuradas (ex: 3001 para o backend).
+
+### ⚙️ Variáveis de Ambiente Necessárias
+As seguintes variáveis de ambiente são exigidas para o funcionamento da aplicação (conforme referenciado no `.env.example`):
+- Variáveis do banco de dados (ex: caminho do SQLite).
+- Chave secreta do JWT (`JWT_SECRET`).
+- Porta do servidor (`PORT`).
