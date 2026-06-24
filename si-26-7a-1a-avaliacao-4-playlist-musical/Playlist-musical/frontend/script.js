@@ -1,5 +1,5 @@
-const API = "http://localhost:3001";
-const GRAPHQL_API = "http://localhost:3001/graphql";
+const API = "";
+const GRAPHQL_API = "/graphql";
 
 async function remoteLog(msg) {
     try {
